@@ -5,7 +5,5 @@
 -->
 
 - 🔭 I’m currently working on Machine Learning projects at Sber
-- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate on projects with some math and engineering background
-- 🤔 I’m looking for help with career development
 - 📫 How to reach me: telegram (@lxndryu)
